@@ -14,3 +14,6 @@ finally managed to set up NodeJs, ExpressJs and MongoDb as my backend and I'm st
 I created 2 APIs - POST and GET request. I tested them initially with the help of Postman and later I integrated the response received to the frontend.
 
 There are a lot of modifications still possible and again its just a basic working sample to meet the requirements of the task now.
+
+How to run backend server?
+1) start the backedn server by using the command "nodemon run start"
