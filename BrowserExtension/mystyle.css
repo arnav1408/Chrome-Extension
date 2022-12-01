@@ -1,0 +1,14 @@
+.mainBody{
+    width: 400px;
+    height: 500px;
+    text-align: center;
+}
+
+.titleInput {
+    width: 90%;
+}
+
+.bodyInput {
+    width: 90%;
+    height: 150px;
+}
